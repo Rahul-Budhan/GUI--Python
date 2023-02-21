@@ -40,8 +40,6 @@ The application window should appear on the screen.
 
 The application provides a user interface for performing a specific task. The exact nature of the task will depend on the application you are using. Generally, you will interact with the application by clicking on buttons, entering text into fields, and selecting options from dropdown menus.
 
-### Troubleshooting
-If the application fails to run, check that you have installed all the required packages by running the command pip install -r requirements.txt again.
 
 If the issue persists, you can try running the application in debug mode by adding the --debug flag to the command:
 ``` 
